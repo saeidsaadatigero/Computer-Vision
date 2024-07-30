@@ -1,4 +1,4 @@
-# Computer-Vision :computer:
+# :star::star::star::star::star:Computer-Vision :computer:
 ### This code is a Python script that uses TensorFlow and OpenCV to classify images using a pre-trained deep learning model (Inception V3) from TensorFlow Hub. Here’s a breakdown of what each part does:
 #### :pushpin:1-Import Libraries:
 * cv2: OpenCV library for image processing.
